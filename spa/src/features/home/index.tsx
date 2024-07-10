@@ -1,5 +1,5 @@
-import { Button, Grid } from "@mui/material";
-import { Pace, WindupChildren } from "windups";
+import { Grid } from "@mui/material";
+import { ArthurCurriculum } from "../cv";
 
 export const Home = () => {
   return (
@@ -7,36 +7,13 @@ export const Home = () => {
       <Grid
         container
         item
-        xs={6}
+        xs={12}
+        minHeight="50vh"
         flexDirection="column"
         justifyContent="center"
+        alignItems="center"
       >
-        <Grid item>
-          <WindupChildren>
-            <Pace getPace={() => 60}>
-              <span style={{ fontSize: 60 }}>Template</span>
-            </Pace>
-          </WindupChildren>
-        </Grid>
-        <Grid item>
-          <span>SPA Template</span>{" "}
-        </Grid>
-        <Grid
-          container
-          item
-          flexDirection="row"
-          justifyContent="space-evenly"
-          paddingTop={5}
-        >
-          <Grid item>
-            <Button variant="contained" color="primary">
-              Botão (?)
-            </Button>
-          </Grid>
-        </Grid>
-      </Grid>
-      <Grid container xs={6} flexDirection="column" alignContent="center">
-        <Grid item>Imagem show</Grid>
+        <ArthurCurriculum />
       </Grid>
     </Grid>
   );
