@@ -27,7 +27,7 @@ export const ArthurCurriculum = () => {
           icon: "usertie",
           content: `Muito prazer! Eu sou o Arthur.<br />
                     Eu não sei exatamente o motivo de eu ter começado a programar, mas desde então eu fiz minha própria TV, um site pra minha mãe gerenciar rifas, esse 
-                    currículo e várias outras coisas!`,
+                    currículo (que está rodando na minha dita TV) e várias outras coisas!`,
         },
         {
           type: "common-list",
