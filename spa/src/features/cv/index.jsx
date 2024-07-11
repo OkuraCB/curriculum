@@ -12,7 +12,7 @@ export const ArthurCurriculum = () => {
           { type: "email", value: "arthur-illa@hotmail.com" },
           { type: "phone", value: "(21) 97144-6787" },
           { type: "location", value: "Petrópolis/RJ" },
-          { type: "website", value: "http://arthurtv.duckdns.org:10003/" },
+          { type: "website", value: "bit.ly/arthurCurriculo" },
           {
             type: "linkedin",
             value: "linkedin.com/in/arthurIlla",
