@@ -69,7 +69,7 @@ export const ArthurCurriculum = () => {
                   title: "Rifas Illa",
                   projectUrl: "https://bit.ly/rifailla",
                   description:
-                    "Um sistema para gerenciar as rifas da minha mãe",
+                    "Um sistema para gerenciar as rifas da minha mãe <br />_email: guest@guest.com_<br />_password: guest_",
                 },
                 {
                   title: "Spindafy",
