@@ -44,7 +44,7 @@ export const ArthurCurriculum = () => {
               rightSide: "2019 - 2023",
             },
             {
-              title: "Eficiência em Pedra, Papel ou Tesoura",
+              title: "Eficiência em Pedra, Papel ou Tesoura.",
               authority: "RPSContest",
               authorityMeta: "Pesquisador",
               authorityWebSite: "http://www.rpscontest.com/",
@@ -65,19 +65,19 @@ export const ArthurCurriculum = () => {
           groups: [
             {
               sectionHeader: "Pessoais",
-              description: "Alguns dos meus projetos pessoais",
+              description: "Alguns dos meus projetos pessoais.",
               items: [
                 {
                   title: "Rifas Illa",
                   projectUrl: "https://bit.ly/rifailla",
                   description:
-                    "Um sistema para gerenciar as rifas da minha mãe <br />_email: guest@guest.com_<br />_password: guest_",
+                    "Um sistema para gerenciar as rifas da minha mãe. <br />_email: guest@guest.com_<br />_password: guest_",
                 },
                 {
                   title: "Spindafy",
                   //projectUrl: "Em breve...",
                   description:
-                    "Implementação de um algoritmo genético pra transformar fotos em combinações do Pokémon Spinda",
+                    "Implementação de um algoritmo genético pra transformar fotos em combinações do Pokémon Spinda.",
                 },
               ],
             },
@@ -88,7 +88,7 @@ export const ArthurCurriculum = () => {
                 {
                   title: "IT Room Inventory",
                   description:
-                    "Um sistema para automatizar o processo de administrar os equipamentos de cada funcionário da empresa",
+                    "Um sistema para automatizar o processo de administrar os equipamentos de cada funcionário da empresa.",
                 },
                 {
                   title: "BookingsAPI",
@@ -99,7 +99,7 @@ export const ArthurCurriculum = () => {
                 {
                   title: "Juan/Ruan",
                   projectUrl: "https://github.com/OkuraCB/JuanRuan",
-                  description: "Um conversor de fuso horário",
+                  description: "Um conversor de fuso horário.",
                 },
                 {
                   title: "Oceano",
