@@ -6,7 +6,7 @@ export const ArthurCurriculum = () => {
     <CV
       personalData={{
         name: "Arthur Illa",
-        title: "Junior Software Developer",
+        title: "Desenvolvedor Fullstack Júnior",
         image: landingPhoto,
         contacts: [
           { type: "email", value: "arthur-illa@hotmail.com" },
@@ -67,7 +67,7 @@ export const ArthurCurriculum = () => {
               items: [
                 {
                   title: "Rifas Illa",
-                  //projectUrl: "Em breve...",
+                  projectUrl: "https://bit.ly/rifailla",
                   description:
                     "Um sistema para gerenciar as rifas da minha mãe",
                 },
@@ -90,18 +90,18 @@ export const ArthurCurriculum = () => {
                 },
                 {
                   title: "BookingsAPI",
-                  // projectUrl: "Em breve...",
+                  projectUrl: "https://github.com/OkuraCB/Bookings",
                   description:
                     "Uma API para gerenciar as reuniões marcadas em cada sala da empresa.",
                 },
                 {
                   title: "Juan/Ruan",
-                  // projectUrl: "Em breve...",
+                  projectUrl: "https://github.com/OkuraCB/JuanRuan",
                   description: "Um conversor de fuso horário",
                 },
                 {
                   title: "Oceano",
-                  // projectUrl: "Em breve...",
+                  projectUrl: "https://github.com/OkuraCB/Oceano",
                   description:
                     "Um tradutor com funcionalidade de voz e histórico de traduções.",
                 },
